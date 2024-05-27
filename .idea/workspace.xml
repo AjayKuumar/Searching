@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="04b9b478-750c-44f2-8056-732bc2913575" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Searching.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinarySearch.java" afterDir="false" />
+    <list default="true" id="04b9b478-750c-44f2-8056-732bc2913575" name="Changes" comment="ajaypadedam789@gmail.com">
+      <change afterPath="$PROJECT_DIR$/src/BinarySearchRecursive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "AjayKuumar"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/AjayKuumar/Searching.git",
+    "accountId": "d420de37-e03d-49f6-830b-8a4d88672954"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 3
 }]]></component>
@@ -39,13 +49,14 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.BinarySearch.executor": "Run",
+    "Application.BinarySearchRecursive.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/hp/Desktop/JAVA/Searching/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.BinarySearchRecursive">
     <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BinarySearch" />
       <module name="Searching" />
@@ -53,8 +64,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BinarySearchRecursive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinarySearchRecursive" />
+      <module name="Searching" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BinarySearchRecursive" />
         <item itemvalue="Application.BinarySearch" />
       </list>
     </recent_temporary>
@@ -68,6 +87,19 @@
       <option name="presentableId" value="Default" />
       <updated>1716774741101</updated>
     </task>
+    <task id="LOCAL-00001" summary="ajaypadedam789@gmail.com">
+      <option name="closed" value="true" />
+      <created>1716775346531</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1716775346531</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ajaypadedam789@gmail.com" />
+    <option name="LAST_COMMIT_MESSAGE" value="ajaypadedam789@gmail.com" />
   </component>
 </project>
